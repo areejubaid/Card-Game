@@ -53,7 +53,11 @@ Main program that demonstrates the functionality of the card game.
 
 ## Installation
 1. Ensure Java Development Kit (JDK) is installed on your system.
-2. Clone or download the project files.
+2. Clone and open the directory.
+```bash
+cd Card-Game
+git clone https://github.com/areejubaid/Card-Game.git
+```
 3. Compile the Java files using:
    ```bash
    javac Card.java SpecialCard.java Hand.java Project1Tester.java
